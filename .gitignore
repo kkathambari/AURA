@@ -1,0 +1,16 @@
+__pycache__/
+.gemini/
+Dataset/
+data/i3d_feature/
+model_zoo/your_model_zoo/*.pkl
+model_zoo/your_model_zoo/*.npy
+C:/Users/kkath/.gemini/
+*.mp4
+*.webm
+*.png
+*.jpg
+*.jpeg
+venv/
+.venv/
+env/
+.env/
