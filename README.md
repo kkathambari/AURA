@@ -516,57 +516,7 @@ The project was trained using a curated subset of the **Self-Stimulatory Behavio
 
 
 
-# 📁 Project Structure
 
-
-
-```text
-
-AURA/
-
-│
-
-├── aura_app.py
-
-├── desktop_app.py
-
-├── inference.py
-
-├── false_positive_prevention.py
-
-├── report_generator.py
-
-├── evaluate_model.py
-
-├── extract_features_to_disk.py
-
-├── train_with_features_tcn_improved.py
-
-├── train_end_to_end.py
-
-├── requirements.txt
-
-├── README.md
-
-│
-
-├── Dataset/
-
-├── data/
-
-├── models/
-
-├── utils/
-
-├── assets/
-
-└── reports/
-
-```
-
-
-
----
 
 
 
